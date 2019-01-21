@@ -7,6 +7,11 @@ Program in .m (Matlab) to simulate the guide and navigation of a mobile robot. T
 
 For more information, read the report (.pdf), where everything is explained.
 
+### Results
+
+https://www.youtube.com/watch?v=0JhDVC0NiL4&t=4s
+https://www.youtube.com/watch?v=-ESwtUmP2zg&t=47s
+
 ### LIB REQUIREMENTS: 
 
 Download and install "Apolo", a program of the UPM.
