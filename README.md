@@ -17,10 +17,9 @@ https://www.youtube.com/watch?v=-ESwtUmP2zg&t=47s
 Download and install "Apolo", a program of the UPM.
 
 ```
-@article{Game-of-tic-tac-toe-with-Robot-ABB-IRB-120,
+@article{Guide_Navigation_Mobile_Robot,
 author = {Carlos Prados Sesmero},
-journal = {University of Valladolid},
+journal = {Polytechnic University of Madrid},
 year = {2017},
-URL = {https://new.abb.com/products/robotics/es/robots-industriales/irb-120}
 }
 ```
