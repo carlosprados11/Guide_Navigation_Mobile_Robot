@@ -1,0 +1,4 @@
+apoloPlaceMRobot('Elder',[0.5 -0.5 0],0);
+apoloResetOdometry('Elder');
+apoloUpdate();
+clear
