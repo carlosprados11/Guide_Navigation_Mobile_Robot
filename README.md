@@ -20,6 +20,6 @@ Download and install "Apolo", a program of the UPM.
 @article{Guide_Navigation_Mobile_Robot,
 author = {Carlos Prados Sesmero},
 journal = {Polytechnic University of Madrid},
-year = {2017},
+year = {2019},
 }
 ```
